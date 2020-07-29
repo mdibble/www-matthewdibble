@@ -11,10 +11,12 @@ function Footer() {
             <Flow offsetY='10px'/>
             <Flow offsetY='20px'/>
             <div className='inner-footer'>
-                <span>View Source</span>
+                <a href='https://github.com/mdibble/www-matthewdibble' target="_blank" rel="noopener noreferrer">View Source</a>
                 <div className='footer-right'>
-                    <span>GitHub</span>
-                    <span>LinkedIn</span>
+                    <div className='socials'>
+                        <a href='https://github.com/mdibble/' target="_blank" rel="noopener noreferrer">GitHub</a>
+                        <a href='https://www.linkedin.com/in/matthew-b-dibble/' target="_blank" rel="noopener noreferrer">LinkedIn</a>
+                    </div>
                     <span style={{color:'#ffffff80'}}>/</span>
                     <Nav />
                 </div>

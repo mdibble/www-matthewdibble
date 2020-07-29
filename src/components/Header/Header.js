@@ -1,6 +1,6 @@
 import React from 'react';
 import './Header.css';
-
+import { Link } from 'react-router-dom';
 import Nav from './Nav/Nav';
 
 function Header() {
@@ -9,7 +9,9 @@ function Header() {
             <div className='header'>
                 <div className='inner-header'>
                     <div className='header-title'>
-                        <span>Matthew Dibble</span>
+                        <Link to="/" style={{ textDecoration: 'none', color: 'inherit' }}>
+                            <span>Matthew Dibble</span>
+                        </Link>
                     </div>
                     <div className='header-nav-items'>
                         <Nav />
