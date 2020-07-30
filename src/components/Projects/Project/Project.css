@@ -1,0 +1,26 @@
+.project-container {
+    background-color: #ffffff20;
+    width: 40%;
+    position: relative;
+    min-height: 180px;
+    margin-bottom: 50px;
+    border-radius: 30px;
+}
+
+.project-inner {
+    width: 90%;
+    margin: auto;
+    left: 0;
+    right: 0;
+}
+
+.project-info-left h1 {
+    font-size: 30px;
+}
+
+.project-info-left {
+    display: flex;
+    flex-direction: column;
+    
+    margin-bottom: 10px;
+}

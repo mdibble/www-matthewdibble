@@ -1,0 +1,10 @@
+.projects-container {
+    width: 95%;
+    margin: auto;
+}
+
+.projects {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}

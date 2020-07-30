@@ -1,0 +1,13 @@
+.contact-container {
+    width: 95%;
+    margin: auto;
+}
+
+.contact-container a {
+    color: inherit;
+}
+
+.contact-container li {
+    list-style-type: none;
+}
+    
