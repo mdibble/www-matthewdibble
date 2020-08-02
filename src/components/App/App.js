@@ -9,11 +9,13 @@ import Home from '../Home/Home';
 import About from '../About/About';
 import Contact from '../Contact/Contact';
 import Projects from '../Projects/Projects';
+import Resume from '../Resume/Resume';
+import Skills from '../Skills/Skills';
 import NotFound from '../404/NotFound';
 
 function App() {
     return (
-        <div className='app' style={{backgroundColor: '#315252'}}>
+        <div className='app' style={{backgroundColor: '#3d618a'}}>
             <Router>
                 <Header />
                     <div className='body' >
@@ -22,8 +24,8 @@ function App() {
                             <Route exact path='/about' component={About} />
                             <Route exact path='/contact' component={Contact} />
                             <Route exact path='/projects' component={Projects} />
-                            <Route exact path='/resume' component={Home} />
-                            <Route exact path='/skills' component={Home} />
+                            <Route exact path='/resume' component={Resume} />
+                            <Route exact path='/skills' component={Skills} />
                             <Route component={NotFound} />
                         </Switch>
                     </div>

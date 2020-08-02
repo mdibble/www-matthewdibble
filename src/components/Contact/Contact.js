@@ -15,7 +15,7 @@ function Contact() {
                 <li>School email: dibb0820 [at] mylaurier [dot] ca</li>
             </ul>
             <p>
-                Or connect with me on <a href='https://www.linkedin.com/in/matthew-b-dibble/'>LinkedIn</a>!
+                Or connect with me on <a href='https://www.linkedin.com/in/matthew-b-dibble/' target="_blank" rel="noopener noreferrer">LinkedIn</a>!
             </p>
         </div>
     )

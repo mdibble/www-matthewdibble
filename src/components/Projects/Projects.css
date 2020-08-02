@@ -3,8 +3,13 @@
     margin: auto;
 }
 
+.projects-container p {
+    font-size: 20px;
+}
+
 .projects {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
+    font-size: 20px;
 }

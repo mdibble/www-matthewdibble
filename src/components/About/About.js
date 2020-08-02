@@ -7,7 +7,7 @@ function About() {
             <div className='about-info'>
                 <h1 style={{lineHeight: '0px'}}>About</h1>
                 <br />
-                <p style={{fontSize: '24px'}}> 
+                <p> 
                     I'm Matthew Dibble, a third-year student at Wilfrid Laurier
                     University pursuing my BBA and BSc in Computer Science,
                     expected to graduate in 2023. Technology is my biggest
@@ -27,13 +27,9 @@ function About() {
                 </p>
                 <p>
                     Though I'm interested in technology, that's not all I pay
-                    attention to. I love movies, with some of my all-time
-                    favourites being Inglourious Basterds, The Terminator, and
-                    Jurassic Park. Here's a list of other movies that I found
-                    particularily noteworthy. I'm also a big fan of the Toronto
-                    Blue Jays and Miami Dolphins. I also love anything related to
-                    comedy, with some of my favourite comedians being Conan O'Brien
-                    and John Mulaney. One cause I care strongly about is
+                    attention to. I love movies, music, comedy, and I'm also a big
+                    fan of the Toronto Blue Jays and Miami Dolphins. I'm also fairly
+                    interested in US Politics. One cause I care strongly about is
                     sustainability, and I admire companies that display an urgency
                     to adopt greener infrastructures.
                 </p>                

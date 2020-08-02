@@ -1,0 +1,13 @@
+.resume-container {
+    width: 95%;
+    margin: auto;
+}
+
+.resume-container p {
+    font-size: 20px;
+}
+
+.resume-doc {
+    display: flex;
+    justify-content: center;
+}

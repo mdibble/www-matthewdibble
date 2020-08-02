@@ -7,7 +7,7 @@ function Projects() {
         <div className='projects-container'>
             <h1>Projects</h1>
             <p style={{paddingBottom: '20px'}}>
-                The source to all of these projects can be found on my <a href='https://github.com/mdibble/' style={{color: 'inherit'}}>GitHub</a>.
+                The source to all of these projects can be found on my <a href='https://github.com/mdibble/' style={{color: 'inherit'}} target="_blank" rel="noopener noreferrer">GitHub</a>.
             </p>
             <div className='projects'>
                 <Project 

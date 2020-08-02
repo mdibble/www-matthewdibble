@@ -1,0 +1,30 @@
+.skillgroup-container {
+    width: 100%;
+    background-color: #ffffff20;
+    border-radius: 30px;
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+
+.skillgroup-inner {
+    width: 95%;
+    margin: auto;
+    padding-bottom: 20px; 
+}
+
+.skillgroup-inner p {
+    display: inline-block;
+    line-height: 0px;
+    font-size: 24px;
+    width: 300px;
+    font-style: italic;
+}
+
+.skillgroup-inner h2 {
+    padding-top: 20px;
+    margin: 0px;
+}
+
+.skillgroup-container span {
+    padding-right: 50px;
+}
