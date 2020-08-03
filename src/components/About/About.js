@@ -1,5 +1,6 @@
 import React from 'react';
 import './About.css';
+import image from '../../assets/img/portrait.png';
 
 function About() {
     return (
@@ -35,7 +36,7 @@ function About() {
                 </p>                
             </div>
             <div className='img-container'>
-                <img src='https://matthewdibble.com/assets/portrait.png' alt=''></img>
+                <img src={image} alt=''></img>
             </div>
         </div>
     )
