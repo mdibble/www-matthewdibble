@@ -4,4 +4,5 @@
     height: 100px;
     background-size: 1500px 150px;
     position: absolute;
+    background-repeat: repeat-x;
 }
