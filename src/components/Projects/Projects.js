@@ -10,6 +10,18 @@ function Projects() {
                 The source to all of these projects can be found on my <a href='https://github.com/mdibble/' style={{color: 'inherit'}} target="_blank" rel="noopener noreferrer">GitHub</a>.
             </p>
             <div className='projects'>
+            <Project 
+                    name='CHIP-8 Emulator'
+                    tech='Rust / SDL2'
+                    desc=   "An emulator of the CHIP-8
+                            instruction set, an architecture that was
+                            interpreted on many personal computers
+                            throughout the 1970s-80s. I learned
+                             a lot about low-level computing,
+                            and this got me significantly more interested in
+                            the field. This was also my introduction into
+                            Rust."    
+                />
                 <Project 
                     name='2020 US Election Poll Aggregator'
                     tech='Node / Mongo / Express / React'

@@ -29,7 +29,7 @@ function Skills() {
             </SkillGroup>
             <SkillGroup type='Languages'>
                 <p>General-purpose</p>
-                <span>C, C++, Java, Python</span>
+                <span>C, C++, Rust, Java, Python</span>
                 <br />
                 <p>Scripting</p>
                 <span>VBA, Google Apps Script</span>
@@ -39,10 +39,10 @@ function Skills() {
             </SkillGroup>
             <SkillGroup type='Eager to Learn'>
                 <p>Hardware</p>
-                <span>CHIP-8, Emulation</span>
+                <span>Emulation</span>
                 <br />
                 <p>Languages</p>
-                <span>Rust, Go</span>
+                <span>Go</span>
                 <br />
                 <p>Frameworks</p>
                 <span>TensorFlow</span>
