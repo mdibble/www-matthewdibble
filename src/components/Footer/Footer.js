@@ -8,9 +8,10 @@ function Footer() {
     return (
         <div className='footer-container'>
             <div className='flow-container'>
-                <Flow offsetY='0px'/>
+                {/* <Flow offsetY='0px'/>
                 <Flow offsetY='10px'/>
-                <Flow offsetY='20px'/>
+                <Flow offsetY='20px'/> 
+                Not working with Safari (desktop and mobile)*/}
             </div>
             <div className='inner-footer'>
                 <a href='https://github.com/mdibble/www-matthewdibble' target="_blank" rel="noopener noreferrer">View Source</a>
