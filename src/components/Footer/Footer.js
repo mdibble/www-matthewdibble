@@ -1,7 +1,6 @@
 import React from 'react';
 import './Footer.css';
 
-import Flow from './Flow/Flow';
 import Nav from '../Header/Nav/Nav';
 
 function Footer() {
