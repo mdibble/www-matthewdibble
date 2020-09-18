@@ -10,17 +10,14 @@ function Projects() {
                 The source to all of these projects can be found on my <a href='https://github.com/mdibble/' style={{color: 'inherit'}} target="_blank" rel="noopener noreferrer">GitHub</a>.
             </p>
             <div className='projects'>
-            <Project 
-                    name='CHIP-8 Emulator'
+                <Project 
+                    name='NES Emulator'
                     tech='Rust / SDL2'
-                    desc=   "An emulator of the CHIP-8
-                            instruction set, an architecture that was
-                            interpreted on many personal computers
-                            throughout the 1970s-80s. I learned
-                             a lot about low-level computing,
-                            and this got me significantly more interested in
-                            the field. This was also my introduction into
-                            Rust."    
+                    desc=   "An emulator of the widely acclaimed 
+                            Nintendo Entertainment System video game
+                            console. Still a work in progress, but can
+                            play a significant amount of the most popular
+                            games at the time of writing"    
                 />
                 <Project 
                     name='2020 US Election Poll Aggregator'
@@ -32,6 +29,18 @@ function Projects() {
                             and displays how each state is swinging
                             based on the most recent information. It
                             includes a RESTful API."    
+                />
+                <Project 
+                    name='CHIP-8 Emulator'
+                    tech='Rust / SDL2'
+                    desc=   "An emulator of the CHIP-8
+                            instruction set, an architecture that was
+                            interpreted on many personal computers
+                            throughout the 1970s-80s. I learned
+                             a lot about low-level computing,
+                            and this got me significantly more interested in
+                            the field. This was also my introduction into
+                            Rust."    
                 />
                 <Project 
                     name='Super Mario Bros. Level 1-1'
