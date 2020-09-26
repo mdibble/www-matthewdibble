@@ -17,7 +17,8 @@ function Projects() {
                             Nintendo Entertainment System video game
                             console. Still a work in progress, but can
                             play a significant amount of the most popular
-                            games at the time of writing"    
+                            games at the time of writing. Check out the
+                            latest on my GitHub!" 
                 />
                 <Project 
                     name='2020 US Election Poll Aggregator'
@@ -56,7 +57,7 @@ function Projects() {
                 <Project 
                     name='Chess in the Terminal'
                     tech='C++'
-                    desc=   "It's about as simple as it sounds. I build a
+                    desc=   "It's about as simple as it sounds. I built a
                             version of chess that's designed to be played
                             in the terminal, and includes full game rules.
                             This includes en passant, castling, and pawn 
